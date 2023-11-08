@@ -25,7 +25,7 @@ Within the optimized code, we engage in Design Space Exploration to identify the
 * Exploring a rectangular block of dimensions Βx-By to identify the optimal size for the block (Bx-By).
 
 ## Part 2: Automated Code Optimization
-The Orio Tool
+The [Orio](https://brnorris03.github.io/Orio/) Tool
 Orio is a Python-based framework that specializes in code transformation and automatic performance tuning. It supports various source and target languages, making it a versatile tool for optimizing code.
 
 Code Optimization with Orio
