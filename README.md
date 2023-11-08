@@ -26,6 +26,7 @@ Within the optimized code, we engage in Design Space Exploration to identify the
 
 ## Part 2: Automated Code Optimization
 The [Orio](https://brnorris03.github.io/Orio/) Tool
+
 Orio is a Python-based framework that specializes in code transformation and automatic performance tuning. It supports various source and target languages, making it a versatile tool for optimizing code.
 
 Code Optimization with Orio
