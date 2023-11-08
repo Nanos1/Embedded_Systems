@@ -25,9 +25,7 @@ Within the optimized code, we engage in Design Space Exploration to identify the
 * Exploring a rectangular block of dimensions Βx-By to identify the optimal size for the block (Bx-By).
 
 ## Part 2: Automated Code Optimization
-The [Orio](https://brnorris03.github.io/Orio/) Tool
-
-Orio is a Python-based framework that specializes in code transformation and automatic performance tuning. It supports various source and target languages, making it a versatile tool for optimizing code.
+The [Orio](https://brnorris03.github.io/Orio/) Tool is a Python-based framework that specializes in code transformation and automatic performance tuning. It supports various source and target languages, making it a versatile tool for optimizing code.
 
 Code Optimization with Orio
 In this section, we leverage the power of the Orio tool to optimize the tables.c code. The function within this code involves simple data accesses and operations with tables. Our optimization efforts involve conducting Design Space Exploration to determine the optimal loop unrolling factor for enhanced performance.
