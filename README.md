@@ -26,6 +26,7 @@ Performance and Quality Measurement
 The lab includes performance and resource measurement, Design Space Exploration, and quality measurement via Max Pixel Error and Peak Signal-to-Noise Ratio (PSNR).
 
 ## Lab 5: Cross-compiling for ARM
+### Description
 - Part 1
 This lab involves creating **ARM** virtual machines, installing cross-compilers (crosstool-ng and Linaro), and comparing their performance by testing executables.
 
