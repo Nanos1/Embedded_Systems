@@ -8,18 +8,18 @@ This lab focuses on optimizing the *Parallel Hierarchical One Dimensional Search
 The optimized code undergoes Design Space Exploration to determine the optimal block dimensions (Β and Βx-By) for improved parallelism.
 
 ## Lab 2: Dynamic Data Type Refinement
-Description
+### Description
 This lab employs *Dynamic Data Type Refinement (DDTR)* to optimize the dynamic data structures of network applications, specifically Deficit Round Robin (DRR) and Dijkstra's algorithm. Evaluation tools include the DDTR library, Massif, and Lackey from the Valgrind suite.
 
 *DRR and Dijkstra Optimization*
 Optimizations involve testing different data structure combinations (SLL, DLL, DYN_ARR) for memory accesses and footprint, resulting in Pareto Optimal Solutions.
 
 ## Lab 3: ARM Assembly
-Description - Emulator
+### Description - Emulator
 This lab explores ARM assembly programming using **QEMU** as a system simulator. Part 1 involves converting input from the terminal, and Part 2 focuses on communication between guest and host machines via a virtual serial port. Part 3 combines C and ARM assembly code.
 
 ## Lab 4: High-Level Synthesis for FPGA
-Description
+### Description
 This lab delves into **High-Level Synthesis (HLS)** for **FPGA** programming, optimizing a Generative Adversarial Network (GAN) application for the Xilinx Zybo FPGA using the SDSoC 2016.4 tool. HLS pragmas such as loop pipelining and loop unrolling are applied for performance improvement.
 
 Performance and Quality Measurement
